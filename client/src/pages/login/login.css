@@ -1,0 +1,20 @@
+.login{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.lInput{
+    font-size: 16px;
+    line-height: 25px;
+}
